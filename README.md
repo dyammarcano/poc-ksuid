@@ -1,1 +1,57 @@
 # poc-ksuid
+
+```shell
+$ dotnet run --project ConsoleApp1
+```
+
+```plaintext
+[4] KSUID: 30xYK0dwYIyJYyV5YUlObQdqrCx
+    Original ID: 1000000000004
+    Decoded ID:  1000000000004
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[3] KSUID: 30xYK0dwYIyJYwPtQX3nC9TUHNg
+    Original ID: 1000000000003
+    Decoded ID:  1000000000003
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[0] KSUID: 30xYK0dwYIyJYaQtF6tCk1bc1Nn
+    Original ID: 1000000000000
+    Decoded ID:  1000000000000
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[7] KSUID: 30xYK0dwYIyJZJNRUTlQBtnZrvi
+    Original ID: 1000000000007
+    Decoded ID:  1000000000007
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[8] KSUID: 30xYK0dwYIyJZPNe5XXd7YMGZF5
+    Original ID: 1000000000008
+    Decoded ID:  1000000000008
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[9] KSUID: 30xYK0dwYIyJZVL61vUq2F8LPLb
+    Original ID: 1000000000009
+    Decoded ID:  1000000000009
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[2] KSUID: 30xYK0dwYIyJYpZVytaljOSaUss
+    Original ID: 1000000000002
+    Decoded ID:  1000000000002
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[6] KSUID: 30xYK0dwYIyJZFT7cflHrSeDAae
+    Original ID: 1000000000006
+    Decoded ID:  1000000000006
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[5] KSUID: 30xYK0dwYIyJZ6ZJxFQ925Jua8W
+    Original ID: 1000000000005
+    Decoded ID:  1000000000005
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+
+[1] KSUID: 30xYK0dwYIyJYi1tHCA8tMLhG6b
+    Original ID: 1000000000001
+    Decoded ID:  1000000000001
+    Timestamp:   2025-08-06T19:50:23.0000000Z
+```
